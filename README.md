@@ -10,7 +10,7 @@ At the end you will be prompted to configre a server, you can use default settin
 
 # Starting and stopping the Perforce server
 ```
-p4dctl stop <service name>
+p4dctl start <service name>
 p4dctl stop <service name>
 ```
 service name is **master** by default
