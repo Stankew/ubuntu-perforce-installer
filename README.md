@@ -2,7 +2,7 @@
 This script will install latest Perforce server on any Ubuntu server.
 # Usage
 ```
-wget https://raw.githubusercontent.com/Stanok1/ubuntu-perforce-installer/main/install-perforce.sh
+wget https://raw.githubusercontent.com/Stankew/ubuntu-perforce-installer/main/install-perforce.sh
 chmod +x install-perforce.sh
 sudo ./install-perforce.sh
 ```
